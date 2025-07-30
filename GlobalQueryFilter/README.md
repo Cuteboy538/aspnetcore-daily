@@ -30,5 +30,4 @@ In Entity Framework Core, a **global query filter** is a LINQ expression applied
 
 ---
 
-## 📂 Project Structure
 
