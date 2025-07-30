@@ -1,6 +1,6 @@
 
 
-<img width="550" height="120" alt="image" src="https://github.com/user-attachments/assets/4a42e6fc-e25b-43b7-a7e9-7a82f0766ea8" />
+<img width="1000" height="120" alt="image" src="https://github.com/user-attachments/assets/4a42e6fc-e25b-43b7-a7e9-7a82f0766ea8" />
 
 # 🧹 EF Core Global Query Filter Demo
 
