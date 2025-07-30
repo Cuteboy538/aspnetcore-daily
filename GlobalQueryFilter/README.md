@@ -1,4 +1,7 @@
 
+
+<img width="550" height="120" alt="image" src="https://github.com/user-attachments/assets/4a42e6fc-e25b-43b7-a7e9-7a82f0766ea8" />
+
 # 🧹 EF Core Global Query Filter Demo
 
 This project demonstrates how to use **Entity Framework Core's Global Query Filters** to implement **soft delete** functionality in a clean and centralized way.
