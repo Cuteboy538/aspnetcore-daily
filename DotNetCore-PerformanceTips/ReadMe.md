@@ -17,4 +17,5 @@ Increasing GC pressure and reducing scalability
 💡 Before vs After — Clean Async Usage
 
 
-<img width="5188" height="2918" alt="image" src="https://github.com/user-attachments/assets/05717533-d4ae-45ff-995a-421fd4bba623" />
+<img width="5188" height="2918" alt="image" src="https://github.com/user-attachments/assets/80dbab96-9d19-42ee-ad41-0ae075fa1883" />
+
